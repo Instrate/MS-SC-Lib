@@ -1,0 +1,13 @@
+# IDE
+.vscode
+.idea
+
+# packages
+package-lock.json
+node_modules
+
+# project files
+dist
+
+# sensitive files
+.env

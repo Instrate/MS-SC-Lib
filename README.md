@@ -69,6 +69,3 @@ npm run build
 
 ---
 <h1 align="center">END</h3>
-<br/>
-
----

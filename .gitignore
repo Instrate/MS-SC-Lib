@@ -11,3 +11,6 @@ dist
 
 # sensitive files
 .env
+
+# Logger folder
+Logs
